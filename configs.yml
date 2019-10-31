@@ -1,0 +1,5 @@
+# The config file of the project
+
+img_size: [512, 512] # the size of the img to be processed
+type: 32 # the type of the data
+
