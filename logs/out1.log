@@ -1,0 +1,6 @@
+nohup: ignoring input
+# CUDA:3 available: GeForce RTX 2080 Ti
+0
+MAGMA error: function-specific error, see documentation (1) in magma_sgebrd at /opt/conda/conda-bld/magma-cuda100_1549065924616/work/src/sgebrd.cpp:205
+MAGMA error: function-specific error, see documentation (1) in magma_sgebrd at /opt/conda/conda-bld/magma-cuda100_1549065924616/work/src/sgebrd.cpp:205
+python: /opt/conda/conda-bld/magma-cuda100_1549065924616/work/interface_cuda/interface.cpp:806: void magma_queue_create_internal(magma_device_t, magma_queue**, const char*, const char*, int): Assertion `queue->dAarray__ != __null' failed.
